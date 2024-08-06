@@ -1,0 +1,23 @@
+/* styles/Navbar.module.css */
+
+.navbar {
+    /* Common navbar styles */
+  }
+  
+  .visibleFonts {
+    font-size: 16px; /* Adjust font size for visibility */
+  }
+  
+  .hiddenFonts {
+    font-size: 0; /* Hide text by setting font size to 0 */
+    overflow: hidden; /* Ensure text doesn't overflow if hidden */
+  }
+  
+  .logo {
+    /* Styles for logo */
+  }
+  
+  .menu {
+    /* Styles for menu items */
+  }
+  

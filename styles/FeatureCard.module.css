@@ -1,0 +1,28 @@
+/* styles/FeatureCard.module.css */
+
+.featureCard {
+    background: #fff; /* Background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for the card */
+    padding: 2rem; /* Padding inside the card */
+    text-align: center; /* Center text inside the card */
+    max-width: 300px; /* Max width of the card */
+    margin: 1rem; /* Margin around the card */
+  }
+  
+  .icon {
+    font-size: 2rem; /* Size of the icon */
+    color: #333; /* Color of the icon */
+    margin-bottom: 1rem; /* Space below the icon */
+  }
+  
+  .title {
+    font-size: 1.5rem; /* Font size for the title */
+    margin-bottom: 0.5rem; /* Space below the title */
+  }
+  
+  .description {
+    font-size: 1rem; /* Font size for the description */
+    color: #666; /* Color of the description text */
+  }
+  
